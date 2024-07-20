@@ -1,0 +1,13 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "Cypress tests for TutorialsNinja",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
